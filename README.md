@@ -1,6 +1,6 @@
 # CI/CD
 
-TRIGGER DEMO AKBANK
+TRIGGER NEW DEMO
 
 Demo repository for using GitHub Actions in a CI/CD context.
 
