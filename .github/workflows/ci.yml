@@ -27,8 +27,7 @@ jobs:
           VALIDATE_JAVASCRIPT_STANDARD: true
 
   # CI job to run a test suite on the code base
-  ci:
-    concurrency: demo-sanofi
+  ci:   
     name: CI
     # We want to test across mutiple OSs, defined by our matrix
     runs-on: ${{ matrix.os }}
