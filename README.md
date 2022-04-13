@@ -1,8 +1,6 @@
 # CI/CD
 
-TRIGGER NEW DEMO
-
-TRIGGER NEW DEMO!!! AND AGAIN, AND AGAIN
+Demo for Shell
 
 Demo repository for using GitHub Actions in a CI/CD context.
 
