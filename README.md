@@ -1,6 +1,6 @@
 # CI/CD
 
-Demo for Shell Feb 2023
+Demo for Shell Feb 2023 1
 
 Demo repository for using GitHub Actions in a CI/CD context.
 
