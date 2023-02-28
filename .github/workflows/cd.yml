@@ -24,6 +24,7 @@ jobs:
       - name: Determine base url
         id: determine_url
         run: |
+          fail
           echo "Determining base URL according to some criteria..."
           echo "BASE_URL="site123"" >> $GITHUB_ENV
       
