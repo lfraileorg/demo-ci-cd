@@ -1,7 +1,5 @@
 # CI/CD
 
-Demo para PRISA
-
 Demo repository for using GitHub Actions in a CI/CD context.
 
 :bulb: To control cost and complexity, the demo does not as of now deploy any code to a cloud environment. The main aim is to show additional CI/CD capabilities using GitHub Actions syntax. 
